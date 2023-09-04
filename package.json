@@ -7,9 +7,7 @@
     "start": "vue-cli-service start --openssl-legacy-provider start",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --openssl-legacy-provider build",
-    "lint": "vue-cli-service lint",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "aos": "^2.3.4",
