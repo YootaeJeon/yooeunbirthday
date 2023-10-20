@@ -22,4 +22,4 @@ npm run serve
 npm run build
 ```
 
-"# birthday" 
+"# birthday : https://yootaejeon.github.io/yooeunbirthday/index.html" 
